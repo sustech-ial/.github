@@ -10,7 +10,7 @@
 
 <br />
 
-<sub>PI: <a href="https://www.sustech.edu.cn/en/faculties/zhongruiwang.html"><strong>Zhongrui Wang</strong></a> · SME, SUSTech · Shenzhen, China</sub>
+<p>PI: <a href="https://www.sustech.edu.cn/en/faculties/zhongruiwang.html"><strong>Zhongrui Wang</strong></a> · SME, SUSTech · Shenzhen, China</p>
 
 </div>
 
