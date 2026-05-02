@@ -2,7 +2,7 @@
 
 # 🤖 SUSTech Intelligent Agents Lab
 
-**🤖 Novel hardware empowered AI agents and embodied AI**
+**✨ Novel hardware empowered AI agents and embodied AI**
 
 [![Website](https://img.shields.io/badge/website-web.ial--cvmi.com-0366d6?style=for-the-badge&logo=safari&logoColor=white)](https://web.ial-cvmi.com/)
 [![GitHub Organization](https://img.shields.io/badge/org-sustech--ial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sustech-ial)
