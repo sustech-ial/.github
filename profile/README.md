@@ -8,10 +8,6 @@
 [![GitHub Organization](https://img.shields.io/badge/org-sustech--ial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sustech-ial)
 [![Google Scholar](https://img.shields.io/badge/Publications-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ofl3nUsAAAAJ)
 
-[![Hardware × AI](https://img.shields.io/badge/research-hardware%20×%20AI-7c3aed?style=for-the-badge)](https://web.ial-cvmi.com/)
-[![Embodied AI](https://img.shields.io/badge/focus-embodied%20AI-0d9488?style=for-the-badge)](https://web.ial-cvmi.com/)
-[![Agents](https://img.shields.io/badge/lab-intelligent%20agents-1e293b?style=for-the-badge)](https://github.com/sustech-ial)
-
 <br />
 
 <sub>PI: <a href="https://www.sustech.edu.cn/en/faculties/zhongruiwang.html"><strong>Zhongrui Wang</strong></a> · SME, SUSTech · Shenzhen, China</sub>
@@ -22,10 +18,7 @@
 
 The **SUSTech Intelligent Agents Lab (IAL)** explores the **co-design of AI algorithms, computing hardware, and intelligent systems** for next-generation intelligent agents.
 
-<details>
-<summary><strong>Research themes</strong></summary>
-
-<br />
+## Research themes
 
 Our work spans **emerging memories**, **in-memory and analog computing**, **efficient AI models**, **diffusion-based decision making**, and **embodied autonomy**, with emphasis on:
 
@@ -34,8 +27,6 @@ Our work spans **emerging memories**, **in-memory and analog computing**, **effi
 - **Memory-centric computing systems**
 - **Hardware–software co-design for AI**
 - **Emerging memory-based AI accelerators**
-
-</details>
 
 ---
 
