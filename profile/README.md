@@ -45,5 +45,8 @@ If you are contributing: follow each repo’s **README**, **license**, and **iss
 
 ## Connect
 
-- **PI on GitHub:** [@zhongruiwang](https://github.com/zhongruiwang)
-- **Email:** [wangzr@sustech.edu.cn](mailto:wangzr@sustech.edu.cn) · [ial.sustech@gmail.com](mailto:ial.sustech@gmail.com)
+**PI on GitHub:** [@zhongruiwang](https://github.com/zhongruiwang)
+
+📧 Email: [wangzr@sustech.edu.cn](mailto:wangzr@sustech.edu.cn)  
+📍 Address: Room 815, Building 3, Chongwen Park, Nanshan Zhiyuan, Shenzhen, China  
+📍 工作地址: 中国广东省深圳市南山区南山智园崇文园区3号楼815室
